@@ -7,7 +7,7 @@
 
 How to Use:
 
-1) download the project as zip
+1) download the project as zip from here : https://github.com/pravin0284/RCB-Team-Validation.git
 2) extract the project in your local machine
 3) open Eclipse
 4) import the project to Eclipse
